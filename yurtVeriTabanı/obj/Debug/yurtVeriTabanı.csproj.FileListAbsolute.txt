@@ -1,0 +1,151 @@
+C:\Users\ASUS\Desktop\yurtVeriTabanı\yurtVeriTabanı\bin\Debug\yurtVeriTabanı.exe.config
+C:\Users\ASUS\Desktop\yurtVeriTabanı\yurtVeriTabanı\bin\Debug\yurtVeriTabanı.exe
+C:\Users\ASUS\Desktop\yurtVeriTabanı\yurtVeriTabanı\bin\Debug\yurtVeriTabanı.pdb
+C:\Users\ASUS\Desktop\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmAnaMenu.resources
+C:\Users\ASUS\Desktop\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmOgrenci.resources
+C:\Users\ASUS\Desktop\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmOgrenciKaydet.resources
+C:\Users\ASUS\Desktop\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.Properties.Resources.resources
+C:\Users\ASUS\Desktop\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.exe
+C:\Users\ASUS\Desktop\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.pdb
+C:\Users\ASUS\Desktop\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmFiyatDüzenle.resources
+C:\Users\ASUS\Desktop\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmOdemeİslemler.resources
+C:\Users\ASUS\Desktop\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmOgrenciOdeme.resources
+C:\Users\ASUS\Desktop\yurtVeriTabanı\yurtVeriTabanı\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\ASUS\Desktop\yurtVeriTabanı\yurtVeriTabanı\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ASUS\Desktop\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\ASUS\Desktop\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ASUS\Desktop\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.csproj.ResolveComReference.cache
+C:\Users\ASUS\Desktop\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmYapilacaklar.resources
+C:\Users\ASUS\Desktop\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmTumBorclar.resources
+C:\Users\ASUS\Desktop\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.csproj.CopyComplete
+C:\Users\ASUS\Desktop\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmOgrenciListele.resources
+C:\Users\ASUS\Desktop\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmOgrenciSilme.resources
+C:\Users\Emre\Desktop\XD\yurtVeriTabanı\yurtVeriTabanı\bin\Debug\yurtVeriTabanı.exe.config
+C:\Users\Emre\Desktop\XD\yurtVeriTabanı\yurtVeriTabanı\bin\Debug\yurtVeriTabanı.exe
+C:\Users\Emre\Desktop\XD\yurtVeriTabanı\yurtVeriTabanı\bin\Debug\yurtVeriTabanı.pdb
+C:\Users\Emre\Desktop\XD\yurtVeriTabanı\yurtVeriTabanı\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Emre\Desktop\XD\yurtVeriTabanı\yurtVeriTabanı\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Emre\Desktop\XD\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.csprojAssemblyReference.cache
+C:\Users\Emre\Desktop\XD\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Emre\Desktop\XD\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Emre\Desktop\XD\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.csproj.ResolveComReference.cache
+C:\Users\Emre\Desktop\XD\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmAnaMenu.resources
+C:\Users\Emre\Desktop\XD\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmFiyatDüzenle.resources
+C:\Users\Emre\Desktop\XD\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmOdemeİslemler.resources
+C:\Users\Emre\Desktop\XD\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmOgrenci.resources
+C:\Users\Emre\Desktop\XD\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmOgrenciKaydet.resources
+C:\Users\Emre\Desktop\XD\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmOgrenciListele.resources
+C:\Users\Emre\Desktop\XD\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmOgrenciOdeme.resources
+C:\Users\Emre\Desktop\XD\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmOgrenciSilme.resources
+C:\Users\Emre\Desktop\XD\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmTumBorclar.resources
+C:\Users\Emre\Desktop\XD\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmYapilacaklar.resources
+C:\Users\Emre\Desktop\XD\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.Properties.Resources.resources
+C:\Users\Emre\Desktop\XD\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.csproj.GenerateResource.cache
+C:\Users\Emre\Desktop\XD\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.csproj.CopyComplete
+C:\Users\Emre\Desktop\XD\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.exe
+C:\Users\Emre\Desktop\XD\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.pdb
+C:\Users\Emre\Desktop\XD\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmFakulte.resources
+C:\Users\Emre\Desktop\XD\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmFakulteOda.resources
+C:\Users\Emre\Desktop\XD\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmOda.resources
+C:\Users\ASUS\Desktop\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmFakulte.resources
+C:\Users\ASUS\Desktop\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmFakulteOda.resources
+C:\Users\ASUS\Desktop\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmOda.resources
+C:\Users\ASUS\Desktop\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmOdalar.resources
+C:\Users\ASUS\Desktop\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmHastalikEkle.resources
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\yurtVeriTabanı\yurtVeriTabanı\bin\Debug\yurtVeriTabanı.exe.config
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\yurtVeriTabanı\yurtVeriTabanı\bin\Debug\yurtVeriTabanı.exe
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\yurtVeriTabanı\yurtVeriTabanı\bin\Debug\yurtVeriTabanı.pdb
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\yurtVeriTabanı\yurtVeriTabanı\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\yurtVeriTabanı\yurtVeriTabanı\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.csprojAssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.csproj.ResolveComReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmAnaMenu.resources
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmFakulte.resources
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmFakulteOda.resources
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmFiyatDüzenle.resources
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmHastalikEkle.resources
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmOda.resources
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmOdalar.resources
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmOdemeİslemler.resources
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmOgrenci.resources
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmOgrenciKaydet.resources
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmOgrenciListele.resources
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmOgrenciOdeme.resources
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmOgrenciSilme.resources
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmTumBorclar.resources
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmYapilacaklar.resources
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.Properties.Resources.resources
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.csproj.GenerateResource.cache
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.csproj.CopyComplete
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.exe
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.pdb
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\yurtVeriTabanı\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmOgrenciGuncelleme.resources
+C:\Users\ASUS\Desktop\yeniYurtVeritabani\yurtVeriTabanı\bin\Debug\yurtVeriTabanı.exe.config
+C:\Users\ASUS\Desktop\yeniYurtVeritabani\yurtVeriTabanı\bin\Debug\yurtVeriTabanı.exe
+C:\Users\ASUS\Desktop\yeniYurtVeritabani\yurtVeriTabanı\bin\Debug\yurtVeriTabanı.pdb
+C:\Users\ASUS\Desktop\yeniYurtVeritabani\yurtVeriTabanı\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\ASUS\Desktop\yeniYurtVeritabani\yurtVeriTabanı\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ASUS\Desktop\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\ASUS\Desktop\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ASUS\Desktop\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.csproj.ResolveComReference.cache
+C:\Users\ASUS\Desktop\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmAnaMenu.resources
+C:\Users\ASUS\Desktop\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmFakulte.resources
+C:\Users\ASUS\Desktop\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmFakulteOda.resources
+C:\Users\ASUS\Desktop\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmFiyatDüzenle.resources
+C:\Users\ASUS\Desktop\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmHastalikEkle.resources
+C:\Users\ASUS\Desktop\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmOda.resources
+C:\Users\ASUS\Desktop\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmOdalar.resources
+C:\Users\ASUS\Desktop\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmOdemeİslemler.resources
+C:\Users\ASUS\Desktop\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmOgrenci.resources
+C:\Users\ASUS\Desktop\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmOgrenciGuncelleme.resources
+C:\Users\ASUS\Desktop\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmOgrenciKaydet.resources
+C:\Users\ASUS\Desktop\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmOgrenciListele.resources
+C:\Users\ASUS\Desktop\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmOgrenciOdeme.resources
+C:\Users\ASUS\Desktop\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmOgrenciSilme.resources
+C:\Users\ASUS\Desktop\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmTumBorclar.resources
+C:\Users\ASUS\Desktop\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmYapilacaklar.resources
+C:\Users\ASUS\Desktop\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.Properties.Resources.resources
+C:\Users\ASUS\Desktop\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.csproj.CopyComplete
+C:\Users\ASUS\Desktop\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.exe
+C:\Users\ASUS\Desktop\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.pdb
+C:\Users\ASUS\Desktop\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmKasa.resources
+C:\Users\ASUS\Desktop\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmAlacaklar.resources
+C:\Users\mehme\OneDrive\Masaüstü\VTYS -  Proje\yeniYurtVeritabani\yurtVeriTabanı\bin\Debug\yurtVeriTabanı.exe.config
+C:\Users\mehme\OneDrive\Masaüstü\VTYS -  Proje\yeniYurtVeritabani\yurtVeriTabanı\bin\Debug\yurtVeriTabanı.exe
+C:\Users\mehme\OneDrive\Masaüstü\VTYS -  Proje\yeniYurtVeritabani\yurtVeriTabanı\bin\Debug\yurtVeriTabanı.pdb
+C:\Users\mehme\OneDrive\Masaüstü\VTYS -  Proje\yeniYurtVeritabani\yurtVeriTabanı\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\mehme\OneDrive\Masaüstü\VTYS -  Proje\yeniYurtVeritabani\yurtVeriTabanı\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\mehme\OneDrive\Masaüstü\VTYS -  Proje\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.csprojAssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\VTYS -  Proje\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\mehme\OneDrive\Masaüstü\VTYS -  Proje\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\mehme\OneDrive\Masaüstü\VTYS -  Proje\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.csproj.ResolveComReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\VTYS -  Proje\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmAlacaklar.resources
+C:\Users\mehme\OneDrive\Masaüstü\VTYS -  Proje\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmAnaMenu.resources
+C:\Users\mehme\OneDrive\Masaüstü\VTYS -  Proje\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmFakulte.resources
+C:\Users\mehme\OneDrive\Masaüstü\VTYS -  Proje\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmFakulteOda.resources
+C:\Users\mehme\OneDrive\Masaüstü\VTYS -  Proje\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmFiyatDüzenle.resources
+C:\Users\mehme\OneDrive\Masaüstü\VTYS -  Proje\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmHastalikEkle.resources
+C:\Users\mehme\OneDrive\Masaüstü\VTYS -  Proje\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmKasa.resources
+C:\Users\mehme\OneDrive\Masaüstü\VTYS -  Proje\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmOda.resources
+C:\Users\mehme\OneDrive\Masaüstü\VTYS -  Proje\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmOdalar.resources
+C:\Users\mehme\OneDrive\Masaüstü\VTYS -  Proje\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmOdemeİslemler.resources
+C:\Users\mehme\OneDrive\Masaüstü\VTYS -  Proje\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmOgrenci.resources
+C:\Users\mehme\OneDrive\Masaüstü\VTYS -  Proje\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmOgrenciGuncelleme.resources
+C:\Users\mehme\OneDrive\Masaüstü\VTYS -  Proje\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmOgrenciKaydet.resources
+C:\Users\mehme\OneDrive\Masaüstü\VTYS -  Proje\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmOgrenciListele.resources
+C:\Users\mehme\OneDrive\Masaüstü\VTYS -  Proje\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmOgrenciOdeme.resources
+C:\Users\mehme\OneDrive\Masaüstü\VTYS -  Proje\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmOgrenciSilme.resources
+C:\Users\mehme\OneDrive\Masaüstü\VTYS -  Proje\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmTumBorclar.resources
+C:\Users\mehme\OneDrive\Masaüstü\VTYS -  Proje\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.Properties.Resources.resources
+C:\Users\mehme\OneDrive\Masaüstü\VTYS -  Proje\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.csproj.GenerateResource.cache
+C:\Users\mehme\OneDrive\Masaüstü\VTYS -  Proje\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.csproj.CopyComplete
+C:\Users\mehme\OneDrive\Masaüstü\VTYS -  Proje\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.exe
+C:\Users\mehme\OneDrive\Masaüstü\VTYS -  Proje\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.pdb
+C:\Users\mehme\OneDrive\Masaüstü\VTYS -  Proje\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmAdminGiris.resources
+C:\Users\mehme\OneDrive\Masaüstü\VTYS -  Proje\yeniYurtVeritabani\yurtVeriTabanı\obj\Debug\yurtVeriTabanı.FrmSifreDegistir.resources
